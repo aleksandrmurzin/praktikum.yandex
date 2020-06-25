@@ -13,3 +13,6 @@
 
 ### [Сборный проект](/Head_P1)
 * [Сборный проект_1](/Head_P1/Head_project_1.ipynb)
+
+### [Извлечение данных](/HData%20mining/python%2BSQL)
+* [Работа с базой + анализ данных](/Data%20mining/python%2BSQL.ipynb)
