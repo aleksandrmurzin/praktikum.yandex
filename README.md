@@ -6,5 +6,5 @@
 * [Исследование надёжности заёмщиков](/Customers%20Reliability%20Survey/Pet_Project_1.ipynb)
 
 ### [Исследовательский анализ данных](/Survey%20of%20apartment%20advertisements/)
-* [Исследование объявлений о продаже квартир]
+* [Исследование объявлений о продаже квартир](/Survey%20of%20apartment%20advertisements/Pet_project_2.ipynb)
 
