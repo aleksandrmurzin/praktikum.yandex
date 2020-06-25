@@ -9,4 +9,4 @@
 * [Исследование объявлений о продаже квартир](/Survey%20of%20apartment%20advertisements/Pet_project_2.ipynb)
 
 ### [Статистический анализ данных](Statistical%20Data%20Analysis)
-* [Определение перспективного тарифа для телеком компании](/Statistical%20Data%20Analysis/Pet_project_3.ipynb)
+* [Определение перспективного тарифа для телеком компании](/Statistical%20Data%20Analysis/Pet_Project_3.ipynb)
