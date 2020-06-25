@@ -17,7 +17,5 @@
 ### [Извлечение данных](/Data%20mining)
 * [Работа с базой + анализ данных](/Data%20mining/python%2BSQL.ipynb)
 
-### [Машинное обучение в бизнесе](/Data%20mining)
-* [Работа с базой + анализ данных](/Data%20mining/python%2BSQL.ipynb)
-
-Машинное обучение в бизнесе
+### [Машинное обучение в бизнесе](/ML%20in%20business)
+* [A/B, bootstrap](/ML%20in%20business/A_B.ipynb)
