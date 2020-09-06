@@ -20,6 +20,8 @@
 ### [Машинное обучение в бизнесе](/ML%20in%20business)
 * [A/B, bootstrap](/ML%20in%20business/A_B.ipynb)
 
+### [Computer vision](/Computer%20vision)
+* [Определение возраста человека по фотографии](/Computer%20vision/Age%20by%20photo.ipynb)
 
 ### [Финальны проект](/Final%20project)
 * [Скоринговая система](/Final%20project/Scoring.ipynb)
