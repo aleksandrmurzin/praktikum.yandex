@@ -11,8 +11,8 @@
 ### [Статистический анализ данных](/Statistical%20Data%20Analysis)
 * [Определение перспективного тарифа для телеком компании](/Statistical%20Data%20Analysis/Pet_Project_3.ipynb)
 
-### [Сборный проект](/Head_P1)
-* [Сборный проект_1](/Head_P1/Head_project_1.ipynb)
+### [Сборный проект 1](/Head_P1)
+* [Поиск закономерностей продаж приставок](/Head_P1/Head_project_1.ipynb)
 
 ### [Извлечение данных](/Data%20mining)
 * [Работа с базой + анализ данных](/Data%20mining/python%2BSQL.ipynb)
