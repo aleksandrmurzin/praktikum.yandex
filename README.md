@@ -20,6 +20,9 @@
 ### [Машинное обучение в бизнесе](/ML%20in%20business)
 * [A/B, bootstrap](/ML%20in%20business/A_B.ipynb)
 
+### [Градиентный бустинг](/Gradient%20Boosting)
+* [Предсказание цены автомобиля с исп. ГБ](/Gradient%20Boosting/GB.ipynb)
+
 ### [Timе series](/Time%20series)
 * [Предсказание спроса на услуги такси](/Time%20series/Demand_prediction.ipynb)
 
