@@ -20,6 +20,9 @@
 ### [Машинное обучение в бизнесе](/ML%20in%20business)
 * [A/B, bootstrap](/ML%20in%20business/A_B.ipynb)
 
+### [NLP](/NLP)
+* [Классификация комментариев](/NLP/Toxic_comments.ipynb)
+
 ### [Computer vision](/Computer%20vision)
 * [Определение возраста человека по фотографии](/Computer%20vision/Age%20by%20photo.ipynb)
 
