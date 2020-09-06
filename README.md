@@ -31,5 +31,3 @@
 
 ### [Финальны проект](/Final%20project)
 * [Скоринговая система](/Final%20project/Scoring.ipynb)
-
-Time%20series/Demand_prediction.ipynb
