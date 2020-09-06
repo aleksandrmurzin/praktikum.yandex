@@ -20,6 +20,9 @@
 ### [Машинное обучение в бизнесе](/ML%20in%20business)
 * [A/B, bootstrap](/ML%20in%20business/A_B.ipynb)
 
+### [Timе series](/Time%20series)
+* [Предсказание спроса на услуги такси](/Time%20series/Demand_prediction.ipynb)
+
 ### [NLP](/NLP)
 * [Классификация комментариев](/NLP/Toxic_comments.ipynb)
 
@@ -28,3 +31,5 @@
 
 ### [Финальны проект](/Final%20project)
 * [Скоринговая система](/Final%20project/Scoring.ipynb)
+
+Time%20series/Demand_prediction.ipynb
