@@ -19,3 +19,7 @@
 
 ### [Машинное обучение в бизнесе](/ML%20in%20business)
 * [A/B, bootstrap](/ML%20in%20business/A_B.ipynb)
+
+
+### [Финальны проект](/Final%20project)
+* [Скоринговая система](/Final%20project/Scoring.ipynb)
